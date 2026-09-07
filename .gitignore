@@ -3,6 +3,13 @@
 *.jar
 *.war
 *.ear
+*.zip
+*.tar.gz
+
+# Log files
+*.log
+*.tmp
+*.temp
 
 # IDE files
 .idea/
@@ -14,14 +21,21 @@
 bin/
 out/
 target/
+build/
 
-# System files
+# OS files
 .DS_Store
 Thumbs.db
-*.log
-*.tmp
+desktop.ini
 
-# Hidden files
-.git/
+# Backup files
 *.swp
 *~
+*.bak
+*.orig
+
+# Sensitive files
+.env
+application.properties
+*.pem
+*.key
