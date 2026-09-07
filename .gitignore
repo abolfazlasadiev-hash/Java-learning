@@ -1,0 +1,27 @@
+# فایل‌های کامپایل شده جاوا
+*.class
+*.jar
+*.war
+*.ear
+
+# پوشه‌های IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+target/
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# فایل‌های مخفی
+.git/
+*.swp
+*~
