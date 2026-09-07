@@ -4,6 +4,7 @@ A simple Java program that prints **"Hello, World!"** to the console.
 
 ##  Goal
 
+
 The goal of this project is to learn the basic structure of a Java program and how to display output in the console.
 
 ##  Concepts
